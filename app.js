@@ -4,3 +4,4 @@ function Hola(camada){
 }
 
 Hola("camada 1")
+console.log("pruebita")
